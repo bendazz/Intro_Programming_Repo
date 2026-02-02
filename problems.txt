@@ -1,0 +1,11 @@
+Show lists and how to access them.  Show how to append to lists
+
+
+1. dropdown where you choose from four teams.  Submit and get length of name.
+2. dropdown gives you 8 weeks.  Pick week and you get Eagles' opponent that week.
+
+Show how to make a spreadsheet with pandas
+
+3.  Make scatterplot and lineplot
+4.  Make app where you can continually input points and see them plotted.
+5.  Make app where you can input two points, see the line segment and slope
